@@ -6,7 +6,7 @@
 
 <p><img align="right" width="50%" src="fullstack.gif" alt="Stork007" /></p>
 
-<p margin-right="10px">
+<p>
 🔹 Senior Full Stack Blockchain/Web3 Engineer with over 8+ years of practical experience designing and building scalable, high-performance web applications<br/>
 🔹 Proficient in front-end technologies like React/Next.js, Vue/Nuxt.js, Angular as well as back-end technologies like Node.js/Django REST framework and Golang<br/>
 🔹 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with EVM, AWS and Azure also GCP<br/>
