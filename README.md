@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi, I'm Stork007 who is always learnig new Things.</h1>
+<h1 align="center">👋Hi, I'm Roman who is always learnig new Things.</h1>
 <hr />
 <h3 align="center"> Full Stack Engineer & Blockchain/Web3 Engineer & AI Agent/Chatbot/OpenAI </h3>
 
