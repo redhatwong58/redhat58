@@ -4,7 +4,7 @@
 
 <br />
 
-<p><img align="right" width="50%" src="code.gif" alt="Roman-58" /></p>
+<p><img align="right" width="50% margin-bottom="10px" src="code.gif" alt="Roman-58" /></p>
 
 <p>
 🔹 Senior Full Stack Blockchain/Web3 Engineer with over 8+ years of practical experience designing and building scalable, high-performance web applications<br/>
