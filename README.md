@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi, I'm Roman who is always learnig new Things.</h1>
+<h1 align="center">👋Hi, I'm Redhat who is always learnig new Things.</h1>
 <hr />
 <h3 align="center"> Full Stack Engineer & Blockchain/Web3 Engineer & AI Agent/Chatbot/OpenAI </h3>
 
@@ -146,5 +146,5 @@
 </table>
 
 <p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=roman-58&theme=darkmode&data=followers,repositories,stars,commits' />
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=Redhat-58&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
