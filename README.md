@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi, I'm Redhat who is always learnig new Things.</h1>
 <hr />
-<h3 align="center"> Full Stack Engineer & Blockchain/Web3 Engineer & AI Agent/Chatbot/OpenAI </h3>
+<h3 align="center"> Full Stack Engineer & Blockchain/Web3 Engineer & AI Agent/Chatbot </h3>
 
 <br />
 
