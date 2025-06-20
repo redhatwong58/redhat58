@@ -1,15 +1,16 @@
 <h1 align="center">👋Hi, I'm Redhat who is always learnig new Things.</h1>
 <hr />
-<h3 align="center"> Full Stack Engineer & Blockchain/Web3 Engineer & AI Agent/Chatbot </h3>
+<h3 align="center"> Senior Software Engineer & Blockchain/Web3 Engineer & AI Agent/Chatbot </h3>
 
 <br />
 
 <p><img align="right" width="50%" src="code.gif" alt="Roman-58" /></p>
 
 <p>
-🔹 Senior Full Stack Blockchain/Web3 Engineer with over 8+ years of practical experience designing and building scalable, high-performance web applications<br/>
-🔹 Proficient in front-end technologies like React/Next.js, Vue/Nuxt.js, Angular as well as back-end technologies like Node.js/Django REST framework and Golang<br/>
+🔹 Senior Software Engineer with over 8+ years of practical experience designing and building scalable, high-performance web applications<br/>
+🔹 Proficient in front-end technologies like React/Next.js, Vue/Nuxt.js, Angular as well as back-end technologies like Node.js/Django/Flask REST framework and Golang<br/>
 🔹 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with EVM, AWS and Azure also GCP<br/>
+🔹 Familiar with AI Chatbot Agent using ChatGPT, Claude, Huggingface, Langchain, Pinecone, +VoIP<br/>
 🔹 Highly skilled in blockchain/web3 industrial web applicaitons such as Dapp, Defi and smart contract, Subgraph, NFT marketplace<br/>
 🔹 Flexible working timezone.<br/>
 🔹 Excellent communication skills.<br/>
