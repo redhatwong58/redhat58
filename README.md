@@ -8,7 +8,7 @@
 
 <p>
 🔹 Senior Software Engineer with over 8+ years of practical experience designing and building scalable, high-performance web applications<br/>
-🔹 Proficient in front-end technologies like React/Next.js, Vue/Nuxt.js, Angular as well as back-end technologies like Node.js/Django/Flask REST framework and Golang<br/>
+🔹 Proficient in front-end technologies like React/Next.js, Vue/Nuxt.js, Angular as well as back-end technologies like Node.js, Python/Django/Flask/FastAPI, Ruby/Ruby on Rails, Java/SpringBoot and Golang<br/>
 🔹 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with EVM, AWS and Azure also GCP<br/>
 🔹 Familiar with AI Chatbot Agent using ChatGPT, Claude, Huggingface, Langchain, Pinecone, +VoIP<br/>
 🔹 Highly skilled in blockchain/web3 industrial web applicaitons such as Dapp, Defi and smart contract, Subgraph, NFT marketplace<br/>
