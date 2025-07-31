@@ -7,7 +7,7 @@
 <p><img align="right" width="50%" src="code.gif" alt="Roman-58" /></p>
 
 <p>
-🔹 Senior Software Engineer with over 8+ years of practical experience designing and building scalable, high-performance web applications<br/>
+🔹 Senior Software Engineer with over 10+ years of practical experience designing and building scalable, high-performance web applications<br/>
 🔹 Proficient in front-end technologies like React/Next.js, Vue/Nuxt.js, Angular as well as back-end technologies like Node.js, Python/Django/Flask/FastAPI, Ruby/Ruby on Rails, Java/SpringBoot and Golang<br/>
 🔹 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with EVM, AWS and Azure also GCP<br/>
 🔹 Familiar with AI Chatbot Agent using ChatGPT, Claude, Huggingface, Langchain, Pinecone, +VoIP<br/>
