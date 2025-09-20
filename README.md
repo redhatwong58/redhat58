@@ -4,7 +4,7 @@
 
 <br />
 
-<p><img align="right" width="50%" src="code.gif" alt="Roman-58" /></p>
+<p><img align="right" width="50%" src="code.gif" alt="redhatwong58" /></p>
 
 <p>
 🔹 <b>Languages:</b> JavaScript, TypeScript, Python, Java, Scala, Kotlin, Golang, Ruby, HTML, CSS, C/C++, C#<br/>
@@ -19,5 +19,5 @@
 </p>
 
 <p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=redhat58&theme=darkmode&data=followers,repositories,stars,commits' />
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=redhatwong58&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
