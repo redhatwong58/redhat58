@@ -1,20 +1,21 @@
 <h1 align="center">👋Hi, I'm Redhat who is always learnig new Things.</h1>
 <hr />
-<h3 align="center"> Senior Software Engineer & Blockchain/Web3 Engineer & AI Agent/Chatbot </h3>
+<h3 align="center"> Senior Software Engineer </h3>
 
 <br />
 
 <p><img align="right" width="50%" src="code.gif" alt="Roman-58" /></p>
 
 <p>
-🔹 Senior Software Engineer with over 10+ years of practical experience designing and building scalable, high-performance web applications<br/>
-🔹 Proficient in front-end technologies like React/Next.js, Vue/Nuxt.js, Angular as well as back-end technologies like Node.js, Python/Django/Flask/FastAPI, Ruby/Ruby on Rails, Java/SpringBoot and Golang<br/>
-🔹 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with EVM, AWS and Azure also GCP<br/>
-🔹 Familiar with AI Chatbot Agent using ChatGPT, Claude, Huggingface, Langchain, Pinecone, +VoIP<br/>
-🔹 Highly skilled in blockchain/web3 industrial web applicaitons such as Dapp, Defi and smart contract, Subgraph, NFT marketplace<br/>
-🔹 Flexible working timezone.<br/>
-🔹 Excellent communication skills.<br/>
-🔹 Full-time job oriented.<br/>
+🔹 <b>Languages</b>b: JavaScript, TypeScript, Python, Java, Scala, Kotlin, Golang, Ruby, HTML, CSS, C/C++, C#<br/>
+🔹 Backend: Node.js, Express.js, NestJS, Spring Boot, Django, Flask, FastAPI, ASP.NET, Ruby on Rails<br/>
+🔹 Frontend: React.js, Next.js, AngularJS, Vue.js, Nuxt.js, D3.js, Tailwind CSS, Bootstrap, MUI<br/>
+🔹 Database: PostgreSQL, MySQL, MSSQL, MongoDB, Oracle, Neo4j, Redis, AWS RDS, DynamoDB<br/>
+🔹 AI/ML: LLM, NLP, RAG, LangChain, LangGraph, OpenAI API, Gemini API, Hugging Face<br/>
+🔹 Cloud & DevOps: AWS, GCP, Azure, Firebase, Apache, Nginx, Snowflake, Docker, Kubernetes, Terraform, GitHub Actions, CircleCI, Jenkins, Cloudflare<br/>
+🔹 Testing & Monitoring: Unit Testing, Integration Testing, E2E Testing, A/B Testing, Jest, Vitest, Pytest, JUnit, RSpec, Go testing, Selenium, Cypress, Playwright, Postman, Lighthouse, Prometheus, Grafana, Datadog, Sentry<br/>
+🔹 Others: Agile, Scrum, Kanban, Git, Jira, Slack, Stripe, Zoho, Salesforce, Zapier, RabbitMQ, Kafka, Linux<br/>
+
 </p>
 
 <table align="center">
