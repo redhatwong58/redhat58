@@ -1,10 +1,16 @@
-<h1 align="center">👋Hi, I'm Wong who is a Senior Software Engineer.</h1>
-<hr />
-<h4 align="center">  Senior Software Engineer with 10+ years of experience in both startup and enterprise environments. Skilled in the full-stack development lifecycle and a proven leader of Agile teams. Expertise in innovation, system architecture, cross-functional collaboration, and delivering scalable, mission-critical solutions in fast-paced environments. </h4>
+<h1 align="center">👋 Wong - Senior Software Engineer.</h1>
 
-<br />
+<hr/>
 
-<p><img align="right" width="50%" src="code.gif" alt="redhatwong58" /></p>
+<h4 align="center">  
+  Senior Software Engineer with 10+ years of experience in both startup and enterprise environments. Skilled in the full-stack development lifecycle and a proven leader of Agile teams. Expertise in innovation, system architecture, cross-functional collaboration, and delivering scalable, mission-critical solutions in fast-paced environments. 
+</h4>
+
+<br/>
+
+<p>
+  <img align="right" width="50%" src="code.gif" alt="redhatwong58" />
+</p>
 
 <p>
 🔹 <b>Languages:</b> JavaScript, TypeScript, Python, Java, Scala, Kotlin, Golang, Ruby, HTML, CSS, C/C++, C#<br/>
