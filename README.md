@@ -8,7 +8,7 @@
 
 <br/>
 
-<div style="display: flex; justify-content: space-between;">
+<div align="center" style="display: flex; justify-content: space-between;">
   <div style="flex: 1; width: 50%; padding-right: 10px;">
     <p>
       🔹 <b>Languages:</b> JavaScript, TypeScript, Python, Java, Scala, Kotlin, Golang, Ruby, HTML, CSS, C/C++, C#<br/>
