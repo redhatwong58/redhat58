@@ -1,6 +1,6 @@
-<h1 align="center">👋Hi, I'm Redhat who is always learnig new Things.</h1>
+<h1 align="center">👋Hi, I'm Wong who is a Senior Software Engineer.</h1>
 <hr />
-<h3 align="center"> Senior Software Engineer </h3>
+<h3 align="center">  Senior Software Engineer with 10+ years of experience in both startup and enterprise environments. Skilled in the full-stack development lifecycle and a proven leader of Agile teams. Expertise in innovation, system architecture, cross-functional collaboration, and delivering scalable, mission-critical solutions in fast-paced environments. </h3>
 
 <br />
 
