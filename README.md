@@ -8,9 +8,7 @@
 
 <br/>
 
-<p>
-  <img align="right" width="50%" src="code.gif" alt="redhatwong58" />
-</p>
+<img align="right" width="50%" src="code.gif" alt="redhatwong58" />
 
 <p>
 🔹 <b>Languages:</b> JavaScript, TypeScript, Python, Java, Scala, Kotlin, Golang, Ruby, HTML, CSS, C/C++, C#<br/>
