@@ -8,8 +8,6 @@
 
 <br/>
 
-<img align="right" width="50%" src="code.gif" alt="redhatwong58" />
-
 <p>
 🔹 <b>Languages:</b> JavaScript, TypeScript, Python, Java, Scala, Kotlin, Golang, Ruby, HTML, CSS, C/C++, C#<br/>
 🔹 <b>Backend:</b> Node.js, Express.js, NestJS, Spring Boot, Django, Flask, FastAPI, ASP.NET, Ruby on Rails<br/>
@@ -19,6 +17,8 @@
 🔹 <b>Cloud & DevOps:</b> AWS, GCP, Azure, Firebase, Apache, Nginx, Snowflake, Docker, Kubernetes, Terraform, GitHub Actions, CircleCI, Jenkins, Cloudflare<br/>
 🔹 <b>Testing & Monitoring:</b> Unit Testing, Integration Testing, E2E Testing, A/B Testing, Jest, Vitest, Pytest, JUnit, RSpec, Go testing, Selenium, Cypress, Playwright, Postman, Lighthouse, Prometheus, Grafana, Datadog, Sentry<br/>
 🔹 <b>Others:</b> Agile, Scrum, Kanban, Git, Jira, Slack, Stripe, Zoho, Salesforce, Zapier, RabbitMQ, Kafka, Linux<br/>
+
+<img align="right" width="50%" src="code.gif" alt="redhatwong58" />
 
 </p>
 
